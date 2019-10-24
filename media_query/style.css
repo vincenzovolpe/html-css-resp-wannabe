@@ -72,6 +72,7 @@ img{
 
     .row {
       width: 100%;
+      height: auto;
     }
 
     #lezioni .row > .left, #lezioni .row > .right{
@@ -84,13 +85,13 @@ img{
         width: 100%;
     }
 
-    img{
-      width: 100%
+    img {
+      width: 100%;
       height: auto;
     }
 
     #why .row img {
-      padding:30px
+      padding: 0;
     }
 }
 
